@@ -20,7 +20,7 @@ body {
   display: grid;
   place-items: center;
   font-family: system-ui, sans-serif;
-  background-color: var(--bg);
+  background-color: black;
 }
 
 .orb {
